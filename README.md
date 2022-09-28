@@ -1,6 +1,6 @@
 # Guess-The-Number
 it's a guess game 
 
-|   Code      |   [Code](https://)  |
+|   Code      |   Try    |
 | ----------- | ----------- |
-|    Try      |   [Give it a try](https://) |
+|[Code](https://github.com/Lucas-marques-web/Guess-The-Number)  |   [Give it a try](https://) |
